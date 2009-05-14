@@ -1,7 +1,7 @@
 <?php
 
 /**
- * @author      Dipl.-Ing. (FH) AndrÈ Fiedler < fiedler.andre(a)gmail.com >
+ * @author      Dipl.-Ing. (FH) Andr√© Fiedler < fiedler.andre(a)gmail.com >
  * @license     http://creativecommons.org/licenses/by-sa/3.0/
  * @version     1.0
  * @link        http://www.andrefiedler.de
