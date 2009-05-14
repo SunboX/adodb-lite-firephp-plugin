@@ -1,10 +1,11 @@
 <?php
 
 /**
- * @author      Dipl.-Ing. (FH) André Fiedler < fiedler.andre(a)gmail.com >
- * @license     http://creativecommons.org/licenses/by-sa/3.0/
- * @version     1.0
- * @link        http://www.andrefiedler.de
+ * @author     Dipl.-Ing. (FH) André Fiedler < kontakt at visualdrugs dot net >
+ * @link       http://github.com/SunboX/adodb-lite-firephp-plugin/tree
+ * @copyright  2009 André Fiedler.
+ * @license    MIT License
+ * @version    1.0
  */
 
 if(!defined('ADODB_ERROR_HANDLER_TYPE')) define('ADODB_ERROR_HANDLER_TYPE', E_USER_ERROR); 
